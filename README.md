@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Li Mengke (李梦柯)</h1>
 <h3 align="center">Keep learning and thinking</h3>
 
-[Personal Website](Keke921.github.io)
+[Personal Website]([Keke921.github.io](https://keke921.github.io/))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Keke921" alt="Keke921" /> </p>
 
