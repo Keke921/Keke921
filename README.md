@@ -58,6 +58,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 ### Publications
 
 #### Conference Paper
+- C.X. Hong, Y. Jin, Z.Q. Kang, Y.Z. Chen, **M.K. Li**, Yang Lu, Hanzi Wang, [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/abs/2404.14721), in IJCAI, 2024.
 - Z.K. Hu, Y.M. Cheung, **M.K. Li**, W.C. Lan, D.L. Zhang, [Key Points Centered Sparse Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10446586), in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’24), Seoul, Korea, April 14-19, 2024.
 - **M.K. Li**, Z.K. Hu, Y. Lu, W.C. Lan, Y.M. Cheung and H. Huang, [Feature Fusion from Head to Tail for Long-Tailed Visual Recognition](https://arxiv.org/abs/2306.06963), in Proceedings of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI’24), Vancouver, Canada, February 20-27, 38(12), pp. 13581-13589, 2024, . [overall acceptance rate: 23.75%].
 - Z.K. Hu, Y.M. Cheung, **M.K. Li** and W.C. Lan, [Few-shot Lip-password Based Speaker Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10221963), in Proceedings of 2023 International Conference on Image Processing (ICIP’2023), Kuala Lumpur, Malaysia, October 8-11, 2023, pp. 1960-1964.
@@ -68,6 +69,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 - M. Pang, Y.M. Cheung, Q.Q. Shi, **M.K. Li**, [Iterative dynamic generic learning for single sample face recognition with a contaminated gallery](https://www.comp.hkbu.edu.hk/~ymc/papers/conference/ICME20-publication-version.pdf), in 2020 IEEE International Conference on Multimedia and Expo (ICME), oral, pp. 1-6, 2020.
 
 #### Journal Paper
+- Z.K. Hu, Y.M. Cheung, **M.K. Li** and W.C. Lan, [Cross-Modal Hashing Method with Properties of Hamming Space: A New Perspective](https://ieeexplore.ieee.org/abstract/document/10506992), IEEE Transactions on Pattern Analysis and Machine Intelligence, in press, DOI: 10.1109/TPAMI.2024.3392763.
 - W.C. Lan, Y.M. Cheung, J.Y. Jiang, Z.K. Hu and **M.K. Li**, [Compact Neural Network via Stacking Hybrid Units](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10275036), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), in press, DOI: 10.1109/TPAMI.2023.3323496 
 - Z.K. Hu, Y.M. Cheung, **M.K. Li**, W.C. Lan, D.L. Zhang and Q. Liu, [Joint Semantic Preserving Sparse Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10226248), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), in press, DOI: 10.1109/TCSVT.2023.3307608.
 - **M.K. Li**, Y.M. Cheung, Z.K. Hu, [Key Point Sensitive Loss for Long-tailed Visual Recognition](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2022-3196044_publication_version.pdf), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45 (4), pp.4812-4825, 2022.
