@@ -20,10 +20,13 @@
 ### 🌱 News 
 👯 My current research direction is **Long-tailed Visual Recognition** and **3D Point Cloud Analysis**. If you are interested in and looking for cooperation, please feel free to contact me.
 
+👯looking for cooperation ✨✨
+
+<!--
 👯 <b style="color:red"> I’m currently looking for master students with an admission date of 2024. If you are self-motivated and would like to have fun with research, don't hesitate to get in touch with me (limengke@gml.ac.cn) </b> 
 (Release date: 2024 Feb 23; Expiration date: Quota is full. Still have quota now.) 
 Undergraduate students are also welcome. We can find some interesting problems to study together.
-
+-->
 
 
 ### Education
