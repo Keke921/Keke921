@@ -86,7 +86,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 
 #### Invited PC for Conferences
 
-- PC member of ICDCS 2024
+- PC member of ICDCS 2024, ECAI 2024
 
 #### Invited Reviewer for Journals/Conferences
 
