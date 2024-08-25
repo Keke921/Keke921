@@ -90,8 +90,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 
 #### Invited Reviewer for Journals/Conferences
 
-- International Conference on Computer Vision (ICCV) 2023
-- The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023, 2024
+- ICCV 2023, CVPR 2023 2024, NeurIPS 2024
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Industrial Informatics (TII)
