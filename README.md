@@ -61,6 +61,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 ### Publications
 
 #### Conference Paper
+- **M.K. Li**, Y. Liu, Y. Lu, Y. Zhang, Y.-m. Cheung, H. Huang*, [Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://arxiv.org/abs/2410.21042), in NeurIPS, 2024.
 - **M.K. Li**, D. Li, G.Q. Yang, Y.-m. Cheung, H. Huang*, [Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers](https://arxiv.org/abs/2407.13200), in ECAI, 2024.
 - C.X. Hong, Y. Jin, Z.Q. Kang, Y.Z. Chen, **M.K. Li**, Yang Lu, Hanzi Wang, [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/abs/2404.14721), in IJCAI, 2024.
 - Z.K. Hu, Y.M. Cheung, **M.K. Li**, W.C. Lan, D.L. Zhang, [Key Points Centered Sparse Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10446586), in Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’24), Seoul, Korea, April 14-19, 2024.
@@ -86,7 +87,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 
 #### Invited PC for Conferences
 
-- PC member of ICDCS 2024, ECAI 2024
+- PC member of ICDCS 2024, ECAI 2024, AAAI 2024.
 
 #### Invited Reviewer for Journals/Conferences
 
