@@ -18,7 +18,7 @@
 
 
 ### 🌱 News 
-👯 My current research direction is **Long-tailed Visual Recognition** and **3D Point Cloud Analysis**. If you are interested in and looking for cooperation, please feel free to contact me.
+👯 My current research direction is **Long-tailed Visual Recognition**, **3D Point Cloud Analysis** and **AIGC**. If you are interested in and looking for cooperation, please feel free to contact me.
 
 👯 looking for cooperation ✨✨
 
@@ -54,7 +54,8 @@ Undergraduate students are also welcome. We can find some interesting problems t
 
 ### Work/Intern Experience
 
-- 12/2022-present, Associate Researcher, [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](https://www.gml.ac.cn//), work with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang/home)) at the College of Computer Science & Software Engineering, Shenzhen University. 
+- 03/2025-Present, Shenzhen University. Work with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang/home)) at the College of Computer Science & Software Engineering. 
+- 12/2022-02/2025, Associate Researcher, [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](https://www.gml.ac.cn//). 
 - 09/2022-12/2022 HKBU Institute for Research and Countuning Education (IRACE), Senior RA.
 
 
