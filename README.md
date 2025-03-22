@@ -108,7 +108,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 
 ### Contact Me
 
-- 📫 Email: limengke@gml.ac.cn
+- 📫 Email: mengkejiajia@hotmail.com
 
 <!--
 <p align="center"> 
