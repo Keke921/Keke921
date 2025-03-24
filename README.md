@@ -9,7 +9,7 @@
 
 
 <!--
-### Skills
+### 🌱 Skills
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/marsggbo/marsggbo/blob/master/pytorch.jpeg" alt="Pytorch" width="40" height="40"/>
@@ -17,7 +17,7 @@
 -->
 
 
-### 🌱 News 
+### ⚡ News 
 👯 My current research direction is **Long-tailed Visual Recognition**, **3D Point Cloud Analysis** and **AIGC**. If you are interested in and looking for cooperation, please feel free to contact me.
 
 👯 looking for cooperation ✨✨
@@ -31,7 +31,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 -->
 
 
-### Education
+### 🌱 Education
 
 #### 🔭 Ph.D. 
 
@@ -54,14 +54,14 @@ Undergraduate students are also welcome. We can find some interesting problems t
 - Major: *Communication Engineering*
 
 
-### Work/Intern Experience
+### 🌱 Work/Intern Experience
 
 - 03/2025-Present, Shenzhen University. Work with the [Visual Computing Research Center (VCC)](https://vcc.tech/index.html) (headed by [Prof. Hui Huang](https://vcc.tech/~huihuang/home)) at the College of Computer Science & Software Engineering. 
 - 12/2022-02/2025, Associate Researcher, [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](https://www.gml.ac.cn//). 
 - 09/2022-12/2022 HKBU Institute for Research and Countuning Education (IRACE), Senior RA.
 
 
-### Publications
+### 🌱 Publications
 
 #### Conference Paper
 - **M.K. Li**, Y. Liu, Y. Lu, Y. Zhang, Y.-m. Cheung, H. Huang*, [Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://arxiv.org/abs/2410.21042), in NeurIPS, 2024.
@@ -86,7 +86,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 - **M.K. Li**, M. Li, P. Zhang, Y. Wu, W.Y. Song, L. An, [SAR image change detection using PCANet guided by saliency detection](https://drive.google.com/file/d/1O61rNnY_ZGqJdwVZ48ltFxESxciCpHKQ/view), IEEE Geoscience and Remote Sensing Letters, 16 (3), pp.402-406, 2018.
 
 
-### Academic Services
+### 🌱 Academic Services
 
 #### Invited PC for Conferences
 
@@ -101,7 +101,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 
 
-### Awards
+### 🌱 Awards
 
 - 2022/23 Outstanding Staff Award by Guangming Lab. [Link](https://mp.weixin.qq.com/s/gkHub8M3IAkgAw-xYwnG5A)
 - 2021/22 Computer Science Department RPg Performance Award, Hong Kong Baptist University. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
@@ -109,7 +109,7 @@ Undergraduate students are also welcome. We can find some interesting problems t
 - 2020  Second Runners-up of Virtual NetHack Contest during the IEEE Region 10 Students Young Professionals Women in Engineering Life members (SYWL) Virtual Congress}. Awarded by IEEE Region 10.
 
 
-### Contact Me
+### 🌱 Contact Me
 
 - 📫 Email: mengkejiajia@hotmail.com
 
